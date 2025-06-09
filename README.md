@@ -28,10 +28,8 @@ I love challenges, learn quickly, and enjoy working in a team under pressure.
 
 ## 📫 Contact Me
 
-- 📧 mohammadar03@gmail.com 
-- 💼 [LinkedIn](www.linkedin.com/in/mohammad-abd-rbo-מוחמד-עבד-רבו-ba3157300
-
-)  
-- 🌐 [My Website](https://stellar-web-showcase-42.onrender.com/) 
+- 📧 mohammadar03@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohammad-abd-rbo-מוחמד-עבד-רבו-ba3157300)  
+- 🌐 [My Website](https://stellar-web-showcase-42.onrender.com/)
 
 ---
